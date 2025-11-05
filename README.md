@@ -2,6 +2,8 @@
 
 Implement a button and timer that will start from 10 and ends at 0 and tracks the counter until the timer expires and button should disappear once timer expires.
 
+![Example Demo](example.gif)
+
 ## Getting Started
 
 First, run the development server:
